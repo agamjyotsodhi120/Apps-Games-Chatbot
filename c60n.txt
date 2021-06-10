@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html> 
+<head> <title> My Work </title>
+</head>
+
+<body>
+<section id="app"> 
+<h1> Apps </h1>
+<div class="line"> </div>
+<iframe width="400" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/7KvUeGYc9Qo_MFjvFHbxya-u9mNtm2UI9rm3aVH-zVg/embed"></iframe>
+<iframe width="400" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/7CpzyFdLrl13-TalIDQpx6hITd2dxPz9GAv5f3XdhM0/embed"></iframe>
+</section>
+
+<section id="game">
+<h1>Game</h1>
+<div class="line"></div>
+<a href="https://studio.code.org/projects/playlab/DzlfOogp-4C7tPlW3yFZwoXn_Ut0wlwjQA-RoGvuQ9g" target="_blank" ><img src="thumbnail.png"> </a>
+<a href="https://studio.code.org/projects/spritelab/tj-sgrLK0Y7QGMSa2CEkB0_5d1UaShNopFnDLl8FdI4" target="_blank" ><img src="Img.png"> </a>
+
+</section>
+
+<section id="chatbot">
+<h1>Chatbot</h1>
+<div class="line"><div>
+<iframe
+    allow="microphone;"
+    width="350"
+    height="500"
+    src="https://console.dialogflow.com/api-client/demo/embedded/0d345981-5581-4ee5-b4b0-5317c7d17920">
+</iframe>
+      
+</section>
+</body>
+</html>
+
+
+
+
+
+
+
+
+                                            CSS
+
+
+
+body{
+    text-align:center;
+}
+h1{
+   font-size:40px;
+   font-family:sans-sarif;
+   background-color:aliceblue;
+   
+}
+#app {
+  width:100%;
+  height:800px;
+  background
